@@ -50,7 +50,7 @@ PyTED documentation is available at : https://pyted.readthedocs.org.
 License
 -------
 
-PyTED is under the GNU General Public License (GPL) version 3
+PyTED is under the GNU General Public License (GPL) version v3.0
 
 
 Features

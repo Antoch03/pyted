@@ -5,14 +5,10 @@ python:
   - 2.7
 
 install:
-<<<<<<< HEAD
-    - "pip install -r requirements.txt" 
-=======
-  - "pip install -r requirements.txt"
->>>>>>> e510d4f2345a0b8093dca20d9a55b01540d5e69c
+   - "pip install -r requirements.txt"
 
 script:
-  - coverage run tests.py
+  - coverage run tests/test_pyted.py
 
 after_success:
   - codecov
