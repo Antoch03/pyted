@@ -17,8 +17,8 @@ PyTED is a python foreign language teaching assistant tool. Its main goal is to 
     <tr>
         <td>Build status</td>
         <td>
-            <a href = "https://codecov.io/gh/Antoch03/pyted">
-            <img src = "https://codecov.io/github/Antoch03/pyted/branch/master/graph/badge.svg"/>
+            <a href = "https://travis-ci.org/Antoch03/pyted">
+            <img src = "https://travis-ci.org/Antoch03/pyted/pyted.svg?branch=master"/>
             </a>
         </td>
     </tr>
