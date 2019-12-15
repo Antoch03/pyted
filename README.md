@@ -20,7 +20,7 @@ PyTED is a python foreign language teaching assistant tool. Its main goal is to 
             <a href = "https://travis-ci.org/Antoch03/pyted">
             <img src = "https://img.shields.io/travis/dmlc/xgboost.svg?label=build&logo=travis&branch=master">
                 
-            {<img src="https://travis-ci.org/Antoch03/pyted.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/Antoch03/pyted]
+            <img src="https://travis-ci.org/Antoch03/pyted.svg?branch=master" alt="Build Status" />
       
       
             </a>
